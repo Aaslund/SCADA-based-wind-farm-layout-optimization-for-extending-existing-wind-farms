@@ -5,12 +5,6 @@ Created on Tue Mar 18 10:06:37 2025
 @author: erica
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 14 13:20:07 2025
-
-@author: erica
-"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
