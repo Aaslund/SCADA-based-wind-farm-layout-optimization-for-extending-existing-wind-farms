@@ -5,13 +5,6 @@ Created on Mon May 26 11:53:51 2025
 @author: erica
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 18 10:16:36 2025
-
-@author: erica
-"""
-
 if __name__ == '__main__':
     import pandas as pd
     import numpy as np
